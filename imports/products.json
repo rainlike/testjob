@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Product 1",
+    "categoryName": "Category 1",
+    "price": 20
+  },
+  {
+    "name": "Product 2",
+    "categoryName": "Category 1",
+    "price": 50
+  },
+  {
+    "name": "Product 3",
+    "categoryName": "Category 2",
+    "price": 35
+  },
+  {
+    "name": "Product 4",
+    "categoryName": "Category 2",
+    "price": 10
+  },
+  {
+    "name": "Product 5",
+    "categoryName": "Category 5",
+    "price": 100
+  }
+]
